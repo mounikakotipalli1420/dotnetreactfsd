@@ -1,0 +1,14 @@
+D:\hexaware\Day1\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\hexaware\Day1\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\hexaware\Day1\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\hexaware\Day1\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\hexaware\Day1\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\hexaware\Day1\FirstSolution\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
