@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShoopingApp",
+    "\\ShoopingApp\\Contexts",
+    "\\ShoopingApp\\Controllers",
+    "\\ShoopingApp\\Interfaces",
+    "\\ShoopingApp\\Models",
+    "\\ShoopingApp\\Services",
+    "\\ShoopingApp\\wwwroot"
+  ],
+  "SelectedNode": "\\ShoopingApp\\Services\\UserService.cs",
+  "PreviewInSolutionExplorer": false
+}

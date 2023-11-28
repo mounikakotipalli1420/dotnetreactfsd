@@ -1,0 +1,233 @@
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\appsettings.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.staticwebassets.runtime.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.exe
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.deps.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.runtimeconfig.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.pdb
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfoInputs.cache
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfo.cs
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.RazorAssemblyInfo.cache
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.RazorAssemblyInfo.cs
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ShoppingApp.props
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingApp.props
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShoppingApp.props
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\bundle\ShoppingApp.styles.css
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingApp.bundle.scp.css
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\refint\ShoppingApp.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.pdb
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.genruntimeconfig.cache
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ref\ShoppingApp.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Humanizer.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.AssemblyReference.cache
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CopyComplete
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\log4net.config
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\log4net.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\traininggiit\day12\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\log4net.config
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\appsettings.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.staticwebassets.runtime.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.exe
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.deps.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.runtimeconfig.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.pdb
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\log4net.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfo.cs
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.RazorAssemblyInfo.cache
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.RazorAssemblyInfo.cs
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ShoppingApp.props
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingApp.props
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShoppingApp.props
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\bundle\ShoppingApp.styles.css
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingApp.bundle.scp.css
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CopyComplete
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\refint\ShoppingApp.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.pdb
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.genruntimeconfig.cache
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ref\ShoppingApp.dll
+C:\Users\himac\OneDrive\Desktop\hexaware\ShoppingSolution (1)\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.AssemblyReference.cache
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfoInputs.cache
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfo.cs
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.RazorAssemblyInfo.cache
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.RazorAssemblyInfo.cs
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\refint\ShoppingApp.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.pdb
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\log4net.config
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\appsettings.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.staticwebassets.runtime.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.exe
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.deps.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.runtimeconfig.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.pdb
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Humanizer.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\log4net.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ShoppingApp.props
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingApp.props
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShoppingApp.props
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\bundle\ShoppingApp.styles.css
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingApp.bundle.scp.css
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CopyComplete
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.genruntimeconfig.cache
+D:\hexaware\ShoppingSolutionA\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ref\ShoppingApp.dll

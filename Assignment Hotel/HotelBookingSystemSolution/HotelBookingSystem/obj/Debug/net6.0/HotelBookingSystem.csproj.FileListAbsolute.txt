@@ -1,0 +1,9 @@
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.csproj.AssemblyReference.cache
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.AssemblyInfoInputs.cache
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.AssemblyInfo.cs
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.csproj.CoreCompileInputs.cache
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.RazorAssemblyInfo.cache
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.RazorAssemblyInfo.cs
+D:\hexaware\Assignment Hotel\HotelBookingSystemSolution\HotelBookingSystem\obj\Debug\net6.0\HotelBookingSystem.MvcApplicationPartsAssemblyInfo.cs

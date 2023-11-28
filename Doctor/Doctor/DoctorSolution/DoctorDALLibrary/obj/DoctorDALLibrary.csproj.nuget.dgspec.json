@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorDALLibrary\\DoctorDALLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorDALLibrary\\DoctorDALLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorDALLibrary\\DoctorDALLibrary.csproj",
+        "projectName": "DoctorDALLibrary",
+        "projectPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorDALLibrary\\DoctorDALLibrary.csproj",
+        "packagesPath": "C:\\Users\\mouni\\.nuget\\packages\\",
+        "outputPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorDALLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mouni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorLibrary\\DoctorModelLibrary.csproj": {
+                "projectPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorLibrary\\DoctorModelLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorLibrary\\DoctorModelLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorLibrary\\DoctorModelLibrary.csproj",
+        "projectName": "DoctorModelLibrary",
+        "projectPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorLibrary\\DoctorModelLibrary.csproj",
+        "packagesPath": "C:\\Users\\mouni\\.nuget\\packages\\",
+        "outputPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\DoctorLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mouni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\Doctor\\Doctor.csproj": {
+                "projectPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\Doctor\\Doctor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\Doctor\\Doctor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\Doctor\\Doctor.csproj",
+        "projectName": "Doctor",
+        "projectPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\Doctor\\Doctor.csproj",
+        "packagesPath": "C:\\Users\\mouni\\.nuget\\packages\\",
+        "outputPath": "D:\\hexaware\\Doctor\\Doctor\\DoctorSolution\\Doctor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mouni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

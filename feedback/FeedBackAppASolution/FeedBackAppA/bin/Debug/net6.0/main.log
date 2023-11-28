@@ -1,0 +1,16 @@
+2023-11-25 16:31:34,353 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5038
+2023-11-25 16:31:34,666 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-11-25 16:31:34,688 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-11-25 16:31:34,729 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Content root path: D:\hexaware\feedback\FeedBackAppASolution\FeedBackAppA\
+2023-11-25 16:32:58,915 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-11-25 16:33:03,498 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (321ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-11-25 16:33:35,367 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-11-25 16:33:35,867 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (391ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-11-25 20:47:28,153 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5038
+2023-11-25 20:47:28,433 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-11-25 20:47:28,498 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-11-25 20:47:28,516 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Content root path: D:\hexaware\feedback\FeedBackAppASolution\FeedBackAppA\

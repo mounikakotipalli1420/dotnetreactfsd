@@ -1,0 +1,14 @@
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\bin\Debug\net6.0\Doctor.exe
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\bin\Debug\net6.0\Doctor.deps.json
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\bin\Debug\net6.0\Doctor.runtimeconfig.json
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\bin\Debug\net6.0\Doctor.dll
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\bin\Debug\net6.0\Doctor.pdb
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.AssemblyInfoInputs.cache
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.AssemblyInfo.cs
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.csproj.CoreCompileInputs.cache
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.dll
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\refint\Doctor.dll
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.pdb
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\Doctor.genruntimeconfig.cache
+D:\hexaware\Doctor\Doctor\DoctorSolution\Doctor\obj\Debug\net6.0\ref\Doctor.dll

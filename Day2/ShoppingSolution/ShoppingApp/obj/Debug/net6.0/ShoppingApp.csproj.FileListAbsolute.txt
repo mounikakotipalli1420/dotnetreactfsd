@@ -1,0 +1,14 @@
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.exe
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.deps.json
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.runtimeconfig.json
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.dll
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.pdb
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfoInputs.cache
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfo.cs
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.dll
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\refint\ShoppingApp.dll
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.pdb
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.genruntimeconfig.cache
+D:\hexaware\Day2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ref\ShoppingApp.dll
