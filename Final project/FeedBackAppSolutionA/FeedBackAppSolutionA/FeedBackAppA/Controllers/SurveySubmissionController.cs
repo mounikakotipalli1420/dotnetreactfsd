@@ -3,22 +3,24 @@ using FeedBackAppA.Interfaces;
 using FeedBackAppA.Migrations;
 using FeedBackAppA.Models;
 using FeedBackAppA.Models.DTOs;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
 namespace FeedBackAppA.Controllers
 {
+    [EnableCors("reactApp")]
     [Route("api/[controller]")]
     [ApiController]
     public class SurveySubmissionController : ControllerBase
     {
-        
+
 
         private readonly FeedBackContext _context;
         private readonly ILogger<SurveySubmissionController> _logger;
 
-        public SurveySubmissionController(FeedBackContext context,ILogger<SurveySubmissionController> logger)
+        public SurveySubmissionController(FeedBackContext context, ILogger<SurveySubmissionController> logger)
         {
             _context = context;
             _logger = logger;

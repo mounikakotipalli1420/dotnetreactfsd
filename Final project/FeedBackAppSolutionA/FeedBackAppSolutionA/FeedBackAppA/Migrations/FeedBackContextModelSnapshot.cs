@@ -75,8 +75,9 @@ namespace FeedBackAppA.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("QuestionResponseId"), 1L, 1);
 
-                    b.Property<int>("AnswerId")
-                        .HasColumnType("int");
+                    b.Property<string>("AnswerId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("QuestionId")
                         .HasColumnType("int");

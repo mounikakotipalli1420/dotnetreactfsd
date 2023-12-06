@@ -1,68 +1,78 @@
 import React, { useState } from 'react';
+import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
 import Welcome from './Components/Welcome';
 import Login from './Components/Login';
 import RegisterUser from './Components/RegisterUser';
-import Survey from './Components/Survey';
-
+import SurveyPage from './Components/SurveyPage';
+import CreateSurvey from './Components/CreateSurvey';
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [isLoginSelected, setIsLoginSelected] = useState(false);
-  const [isRegisterSelected, setIsRegisterSelected] = useState(false);
-
-  const handleLoginSelect = () => {
-    setIsLoginSelected(true);
-    setIsRegisterSelected(false);
-  };
-
-  const handleRegisterSelect = () => {
-    setIsLoginSelected(false);
-    setIsRegisterSelected(true);
-  };
-
-  const handleLogin = () => {
-    // Implement your login logic
-    setIsLoggedIn(true);
-    setIsLoginSelected(false);
-    setIsRegisterSelected(false);
-  };
-
-  const handleRegister = () => {
-    // Implement your register logic
-    setIsLoggedIn(true);
-    setIsLoginSelected(false);
-    setIsRegisterSelected(false);
-  };
 
   return (
-    <div className="App">
-      <Welcome />
-  
-      {!isLoggedIn && !isLoginSelected && !isRegisterSelected && (
-        <div>
-          <button onClick={handleLoginSelect}>Login</button>
-          <div style={{ marginBottom: '10px' }}></div>
-          <button onClick={handleRegisterSelect}>Register</button>
-        </div>
-      )}
-  
-      {isLoginSelected && !isLoggedIn && (
-        <Login onLogin={handleLogin} />
-      )}
-  
-      {isRegisterSelected && !isLoggedIn && (
-        <RegisterUser onRegister={handleRegister} />
-      )}
-  
-      {isLoggedIn && (
-        <div>
-          {/* Your survey component goes here */}
-          <Survey />
-        </div>
-      )}
-      
-      
-    </div>
+    <Router>
+      <div className="App">
+        <nav>
+          <ul>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            {isLoggedIn ? (
+              <>
+                <li>
+                  <Link to="/surveys">Surveys</Link>
+                </li>
+                <li>
+                  <Link to="/create-survey">Create Survey</Link>
+                </li>
+                
+              </>
+            ) : (
+              <>
+                <li>
+                  <Link to="/login">Login</Link>
+                </li>
+                <li>
+                  <Link to="/register">Register</Link>
+                </li>
+              </>
+            )}
+          </ul>
+        </nav>
+
+        <hr />
+
+        <Routes>
+          <Route path="/" element={<Welcome />} />
+          <Route
+            path="/login"
+            element={
+              !isLoggedIn ? (
+                <Login onLogin={() => setIsLoggedIn(true)} />
+              ) : (
+                <Navigate to="/surveys" />
+              )
+            }
+          />
+          <Route
+            path="/register"
+            element={
+              !isLoggedIn ? (
+                <RegisterUser onRegister={() => setIsLoggedIn(true)} />
+              ) : (
+                <Navigate to="/surveys" />
+              )
+            }
+          />
+          <Route
+            path="/surveys"
+            element={isLoggedIn ? <SurveyPage /> : <Navigate to="/" />}
+          />
+          <Route path="/create-survey" element={isLoggedIn ? <CreateSurvey /> : <Navigate to="/" />} />
+        </Routes>
+      </div>
+    </Router>
   );
-      }
-  export default App;
+}
+
+export default App;
