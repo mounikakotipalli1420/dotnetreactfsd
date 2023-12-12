@@ -8528,3 +8528,260 @@ FROM [Surveys] AS [s]
 2023-12-06 23:39:42,168 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
 SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
 FROM [Surveys] AS [s]
+2023-12-07 09:11:36,636 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5095
+2023-12-07 09:11:37,375 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-12-07 09:11:37,484 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-12-07 09:11:37,542 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Content root path: D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\
+2023-12-07 09:13:29,439 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 09:13:40,416 [.NET ThreadPool Worker] WARN Microsoft.EntityFrameworkCore.Query.?[?] - Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+2023-12-07 09:13:47,466 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (751ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 09:57:23,866 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 09:57:23,870 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 09:57:26,975 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (47ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 09:57:27,013 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (99ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 09:57:34,548 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 09:57:38,944 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2,224ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 09:57:39,018 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 09:57:39,044 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:28:49,029 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5095
+2023-12-07 15:28:51,142 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-12-07 15:28:51,161 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-12-07 15:28:51,175 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Content root path: D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\
+2023-12-07 15:33:17,278 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:33:20,575 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (196ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:33:39,251 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:33:39,346 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (18ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:33:44,284 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:33:44,294 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:33:59,152 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:33:59,161 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:34:08,039 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:34:08,047 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (1ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:34:13,069 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:34:13,078 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (3ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:34:52,988 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:34:53,767 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (397ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:35:06,158 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:35:06,366 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (118ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:35:06,514 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:35:06,522 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:35:13,445 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:35:13,456 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:35:13,493 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:35:13,950 [.NET ThreadPool Worker] WARN Microsoft.EntityFrameworkCore.Query.?[?] - Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+2023-12-07 15:35:14,129 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (144ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 15:35:14,234 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:35:14,249 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (10ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 15:40:09,111 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:40:12,847 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (1,832ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:40:12,950 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:40:12,964 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:41:00,447 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:00,726 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (203ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:41:03,098 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:03,131 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (21ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:41:03,148 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:03,157 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:41:09,048 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:09,089 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:09,137 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:41:09,475 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (142ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 15:41:09,510 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:09,521 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 15:41:48,859 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:49,183 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (109ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:41:49,243 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:41:49,253 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:43:29,446 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:43:29,833 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (189ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:43:41,479 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:43:41,531 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (31ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:43:41,558 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:43:41,566 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:46:05,904 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:06,442 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (183ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:46:06,575 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:06,625 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:46:48,182 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:49,310 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (93ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:46:51,901 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:51,926 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:46:51,947 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:51,964 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:46:58,145 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:58,186 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:58,343 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:46:58,349 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (173ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 15:46:58,366 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:46:58,375 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[ResponseCount], [t].[Title], [t0].[Id], [t0].[SurveyId], [t0].[Text], [t0].[Type], [t0].[Id0], [t0].[QuestionId], [t0].[Text0]
+FROM (
+    SELECT TOP(1) [s].[Id], [s].[ResponseCount], [s].[Title]
+    FROM [Surveys] AS [s]
+    WHERE [s].[Id] = @__id_0
+) AS [t]
+LEFT JOIN (
+    SELECT [q].[Id], [q].[SurveyId], [q].[Text], [q].[Type], [a].[Id] AS [Id0], [a].[QuestionId], [a].[Text] AS [Text0]
+    FROM [Questions] AS [q]
+    LEFT JOIN [Answers] AS [a] ON [q].[Id] = [a].[QuestionId]
+) AS [t0] ON [t].[Id] = [t0].[SurveyId]
+ORDER BY [t].[Id], [t0].[Id]
+2023-12-07 15:48:22,651 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:48:23,171 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (219ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[Username], [u].[Key], [u].[Password], [u].[Role], [u].[email]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__key_0
+2023-12-07 15:48:27,057 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:48:27,098 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]
+2023-12-07 15:48:27,113 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Infrastructure.?[?] - Entity Framework Core 6.0.24 initialized 'FeedBackContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.24' with options: None
+2023-12-07 15:48:27,121 [.NET ThreadPool Worker] INFO Microsoft.EntityFrameworkCore.Database.Command.?[?] - Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[ResponseCount], [s].[Title]
+FROM [Surveys] AS [s]

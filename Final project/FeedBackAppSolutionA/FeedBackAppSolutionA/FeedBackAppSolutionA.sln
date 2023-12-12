@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedBackAppA", "FeedBackAppA\FeedBackAppA.csproj", "{7F24E78A-B2E2-45BF-9C21-4E45D7283822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedBackAppA", "FeedBackAppA\FeedBackAppA.csproj", "{7F24E78A-B2E2-45BF-9C21-4E45D7283822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFeedbackTest", "EFeedbackTest\EFeedbackTest.csproj", "{FCE24B9A-8055-4202-B289-41FD4C123680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7F24E78A-B2E2-45BF-9C21-4E45D7283822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F24E78A-B2E2-45BF-9C21-4E45D7283822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F24E78A-B2E2-45BF-9C21-4E45D7283822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE24B9A-8055-4202-B289-41FD4C123680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE24B9A-8055-4202-B289-41FD4C123680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE24B9A-8055-4202-B289-41FD4C123680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE24B9A-8055-4202-B289-41FD4C123680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
